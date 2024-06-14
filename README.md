@@ -1,4 +1,4 @@
-- 👋 Salut, je m'appelle Lucas, j'ai 17 ans et la programmation m'a toujours intéressé, tout comme les maths.
+- 👋 Salut, je m'appelle Lucas, j'ai 18 ans et la programmation m'a toujours intéressé, tout comme les maths.
 
 - Je partagerai ici et là quelques uns de mes projets, en espérant qu'ils pourront vous intéresser/vous inspirer, même si je reste plus intéressé par la programmation compétitive :)
 
